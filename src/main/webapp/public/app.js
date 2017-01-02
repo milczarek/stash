@@ -16,7 +16,7 @@ class App extends React.Component {
     render() {
         return (
             <div>
-                <h1>My test App asd</h1>
+                <h1>My test App<br/>Some test changes</h1>
             </div>
     )
     }

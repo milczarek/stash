@@ -21,7 +21,7 @@
     "webpack": "^1.12.2"
   },
   "scripts": {
-    "watch": "webpack --watch -d"
+    "watch": "./node_modules/.bin/webpack --watch -d"
   },
   "devDependencies": {
     "babel-core": "^6.18.2",
