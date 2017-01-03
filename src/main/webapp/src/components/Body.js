@@ -9,11 +9,10 @@ export default class Body extends React.Component {
     }
 
     componentDidMount() {
-        console.log("TestComponent.componentDidMount()")
+        console.log("Body.componentDidMount()")
     }
 
     render() {
-        console.log('asdasda asdasd asdasd addd');
         return (
             <div>
                 <h1>
